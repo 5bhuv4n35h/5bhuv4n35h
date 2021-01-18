@@ -7,4 +7,3 @@
 ![](https://img.shields.io/github/stars/5bhuv4n35h?style=plastic)
 <br>
 
-![site status](https://github.com/5bhuv4n35h/5bhuv4n35h.io/workflows/Jekyll%20site%20CI/badge.svg)
