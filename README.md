@@ -13,5 +13,7 @@
 
 ![](https://img.shields.io/github/stars/5bhuv4n35h?style=plastic)
 <br>
-####  website build status:[![Netlify Status](https://api.netlify.com/api/v1/badges/fcb96a80-a4b9-45e2-9f40-fc2e9dd9b358/deploy-status)](https://app.netlify.com/sites/focused-bhaskara-48134b/deploys)
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fcb96a80-a4b9-45e2-9f40-fc2e9dd9b358/deploy-status)](https://app.netlify.com/sites/focused-bhaskara-48134b/deploys)
 
